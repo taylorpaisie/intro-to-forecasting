@@ -20,12 +20,12 @@ Welcome! This mini-course is designed for **practical, defensible forecasts** on
 
 ### Open in Colab (edit the URL to match your repo)
 ```text
-https://colab.research.google.com/github/<YOUR_GH_USERNAME>/intro-to-forecasting/blob/main/notebooks/intro_to_forecasting.ipynb
+https://colab.research.google.com/github/taylorpaisie/intro-to-forecasting/blob/main/notebooks/intro_to_forecasting.ipynb
 ```
 
 ### View as a static notebook (nbviewer)
 ```text
-https://nbviewer.org/github/<YOUR_GH_USERNAME>/intro-to-forecasting/blob/main/notebooks/intro_to_forecasting.ipynb
+https://nbviewer.org/github/taylorpaisie/intro-to-forecasting/blob/main/notebooks/intro_to_forecasting.ipynb
 ```
 
 ## What you’ll build
