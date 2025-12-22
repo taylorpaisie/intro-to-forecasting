@@ -1,0 +1,10 @@
+title: Intro to Forecasting
+description: Practical forecasting for monthly spend / performance data (with a runnable notebook).
+theme: jekyll-theme-minimal
+# For project pages: baseurl should be "/<repo-name>"
+baseurl: "/intro-to-forecasting"
+url: ""
+markdown: kramdown
+
+# Optional: show downloads button
+show_downloads: true
