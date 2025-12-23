@@ -1,5 +1,9 @@
+# Python 3.8+ required
+# Install with: pip install -r requirements.txt
+
 pandas
 numpy
 matplotlib
 openpyxl
 statsmodels
+jupyter
